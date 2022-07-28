@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.doublecat.cn</id>
+    <title>二喵的小窝</title>
+    <updated>2022-07-28T11:58:57.044Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.doublecat.cn"/>
+    <link rel="self" href="https://blog.doublecat.cn/atom.xml"/>
+    <subtitle>夏日已至，静听蝉鸣</subtitle>
+    <logo>https://blog.doublecat.cn/images/avatar.png</logo>
+    <icon>https://blog.doublecat.cn/favicon.ico</icon>
+    <rights>All rights reserved 2022, 二喵的小窝</rights>
+    <entry>
+        <title type="html"><![CDATA[四川省教考院招考信息查询系统自动填表生成器]]></title>
+        <id>https://blog.doublecat.cn/post/sceeatypist/</id>
+        <link href="https://blog.doublecat.cn/post/sceeatypist/">
+        </link>
+        <updated>2022-07-21T07:23:33.000Z</updated>
+        <summary type="html"><![CDATA[<p>在这里我提供了一个网页来帮助你创建一个函数以自动填写查询系统需要的信息</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>在这里我提供了一个网页来帮助你创建一个函数以自动填写查询系统需要的信息</p>
+<!-- more -->
+<h1 id="制作原因">制作原因</h1>
+<ul>
+<li>表单不能自动保存，每次查询都需要重新输入相关内容</li>
+<li>我懒</li>
+</ul>
+<h1 id="注意事项">注意事项</h1>
+<ul>
+<li>本工具仅为辅助生成代码，不会收集任何信息</li>
+<li>本工具生成的函数仅在PC浏览器上可用，手机端不可用</li>
+</ul>
+<h1 id="使用方法请先阅读完再操作">使用方法(请先阅读完再操作)</h1>
+<ul>
+<li><a href="https://blog.doublecat.cn/tools/sceeatypist.html">点此</a>进入生成器网站</li>
+<li>根据你要查询的页面参考生成器的提示填写考生姓名、考生号等。<strong>注意：若多填，生成的函数会无效</strong></li>
+<li>点击生成按钮，复制生成的函数代码。生成的代码将会是例如<a href="javascript:void(0)">javascript:(一堆函数)()</a>的格式</li>
+<li>在浏览器的书签栏上面新建一个书签，标题随意，网址填写你刚刚复制到的函数代码，点击保存</li>
+<li>进入需要查询的通道（可从生成器进入查询系统主网站），点击书签，你就可以看到表单数据已经自动填好了</li>
+<li><em>（PS：这不是一次性的，只要书签没删，查询通道开启，那么每次点击书签都可以自动填表）</em></li>
+</ul>
+<h2 id="希望大家都可以被理想的大学和专业录取">希望大家都可以被理想的大学和专业录取！！！</h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[学习手记]二喵的CS编程手册]]></title>
+        <id>https://blog.doublecat.cn/post/CSStudyList/</id>
+        <link href="https://blog.doublecat.cn/post/CSStudyList/">
+        </link>
+        <updated>2022-07-18T16:42:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>这篇博客是为了让自己在CS的学习过程中有一个计划，同时作为自己的一个进度单</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这篇博客是为了让自己在CS的学习过程中有一个计划，同时作为自己的一个进度单</p>
+<!-- more -->
+<center><b>The past is never dead, it is not ever past.</b></center>
+<center><b>过去从未消亡，它甚至从未过去</b></center>
+<p align="right">————威廉·福克纳</p>
+<h1 id="网站列表">网站列表</h1>
+<ol>
+<li><a href="https://csdiy.wiki/">CS自学指南</a>  ||  进度：Git</li>
+<li><a href="https://github.com/qianguyihao/Web/">前端学习路线</a>  ||  暂无想法</li>
+<li><a href="https://cs61a.org/">(Python)CS64A</a>  ||  延缓</li>
+<li><a href="https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md">FreeProgrammingBooks</a></li>
+<li><a href="https://doc.rust-lang.org/stable/rust-by-example/">Rust By Example</a></li>
+<li><a href="https://fonts.google.com/">Google Fonts</a>  |  All font is free!</li>
+<li><a href="https://www.w3school.com.cn/js/index.asp">JavaScript 教程</a></li>
+<li><a href="https://www.w3school.com.cn/h.asp">HTML 系列教程</a></li>
+</ol>
+<h1 id="书籍列表">书籍列表</h1>
+<ol>
+<li><a href="https://book.douban.com/subject/35292688/">微积分的力量</a></li>
+<li><a href="https://book.douban.com/subject/1291204/">哥德尔、艾舍尔、巴赫(GEB/集异璧)</a></li>
+<li><a href="https://book.douban.com/subject/25708312/">C++ Primer 中文版(第 5 版)</a></li>
+<li><a href="https://changkun.de/modern-cpp/zh-cn/00-preface/">现代 C++ 教程：高速上手 C++ 11/14/17/20</a></li>
+</ol>
+<h1 id="视频地址">视频地址</h1>
+<ol>
+<li><a href="https://www.bilibili.com/video/BV1qW411N7FU">3B1B微积分的本质</a>||进度：P7</li>
+<li><a href="https://www.bilibili.com/video/BV1ys411472E">3B1B线性代数</a></li>
+<li><a href="https://space.bilibili.com/88461692/channel/seriesdetail?sid=1528924">3B1B概率论</a></li>
+</ol>
+<h1 id="技术">技术</h1>
+<ol>
+<li><a href="https://www.capturingreality.com/">Capturingreality</a>  |  Create realistic 3D models from photos</li>
+<li><a href="https://github.com/deepmind/alphafold">AlphaFold</a></li>
+<li><a href="https://github.com/carbon-language/carbon-lang">Carbon</a>  |  Google said it will replace C++</li>
+<li><a href="https://github.com/rust-lang/rust">Rust</a>  |  Seems already replace C++</li>
+<li><a href="https://www.geeksforgeeks.org/cosine-similarity/">Cosine Similarity</a></li>
+</ol>
+<h1 id="开源软件">开源软件</h1>
+<ol>
+<li><a href="https://github.com/FFmpeg/FFmpeg">FFmpeg</a>  |  God of process multimedia</li>
+<li><a href="https://github.com/louislam/uptime-kuma">Uptime-kuma</a>  |  Self-hosted monitoring tool</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Windows工具]让第三方软件实现类似于QQ的窗口停靠&隐藏效果]]></title>
+        <id>https://blog.doublecat.cn/post/TargetWindowHider/</id>
+        <link href="https://blog.doublecat.cn/post/TargetWindowHider/">
+        </link>
+        <updated>2022-07-14T03:11:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是一个让第三方软件实现类似于QQ的窗口隐藏效果的小工具</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是一个让第三方软件实现类似于QQ的窗口隐藏效果的小工具</p>
+<!-- more -->
+<h1 id="更新">更新</h1>
+<p>2022.7.28 更新v1.1.6 (Code + releases)<br>
+2022.7.25 更新v1.1.5 (Code + releases)<br>
+2022.7.20 更新v1.1.4 (Code + releases)<br>
+2022.7.19 更新v1.1.1 (Code only)<br>
+2022.7.18 更新v1.1.0 (Code + releases)<br>
+2022.7.13 更新v1.0.0 (Code + releases)</p>
+<h1 id="操作方法">操作方法</h1>
+<ol>
+<li>第一次打开程序需要根据提示输入目标程序的类名、窗口名，若不匹配则输入nullptr</li>
+<li>若需重新匹配请删除程序同目录下的config.json</li>
+<li>左右停靠
+<ul>
+<li>拖动目标窗口至目标窗口左(右)边在屏幕左(右)侧边缘及更左(右)即可激活停靠</li>
+<li>鼠标移动至最左(右)即可唤出窗口</li>
+<li>拖动目标窗口离开停靠位置即可解除停靠状态</li>
+</ul>
+</li>
+<li>顶部停靠
+<ul>
+<li>拖动目标窗口使其顶部到/超过屏幕顶端即可激活停靠</li>
+<li>若目标窗口左(右)边距离屏幕左侧(右侧)距离5px，则会被识别为左(右)停靠</li>
+<li>鼠标移至显示屏顶端目标窗口x坐标范围即可唤出窗口</li>
+<li>拖动目标窗口使其顶部离开屏幕顶端即可解除停靠</li>
+</ul>
+</li>
+<li>在停靠时，若鼠标离开目标窗口，则会自动隐藏目标窗口直到唤出</li>
+<li>拖动文件/文本等时可以唤出目标窗口</li>
+<li>点击右下角托盘即可显示/隐藏程序窗口，右键即可唤出菜单</li>
+</ol>
+<h1 id="项目地址">项目地址</h1>
+<p><a href="https://github.com/DoubleBobCat/TargetWindowHider">全球最大 <s>同姓交友平台</s> Github</a></p>
+<h1 id="下载链接v116">下载链接(v1.1.6)</h1>
+<p><a href="https://github.com/DoubleBobCat/TargetWindowHider/releases">Github releases</a><br>
+<a href="https://wwm.lanzoul.com/b03j52u4j">蓝奏网盘(密码:exan)</a><br>
+<a href="https://pan.baidu.com/s/1NV9xLTx2U8iEs5IWIo80aA?pwd=exan">百度网盘(密码:exan)</a></p>
+<h1 id="后续计划">后续计划</h1>
+<ol>
+<li>增加动画</li>
+<li>增加多显示器支持</li>
+<li>增加GUI</li>
+</ol>
+<h1 id="更新日志">更新日志</h1>
+<ul>
+<li>v1.1.6
+<ol>
+<li>修复了部分bug</li>
+</ol>
+</li>
+<li>v1.1.5
+<ol>
+<li>修复了部分bug</li>
+<li>优化了代码逻辑</li>
+</ol>
+</li>
+<li>v1.1.4
+<ol>
+<li>增加了右下角托盘以便快速操作</li>
+<li>增加了开机启动</li>
+</ol>
+</li>
+<li>v1.1.1
+<ol>
+<li>修复了部分bug</li>
+</ol>
+</li>
+<li>v1.1.0
+<ol>
+<li>新增通过配置文件自定义目标窗口</li>
+<li>优化了代码逻辑</li>
+<li>实现了多线程</li>
+</ol>
+</li>
+<li>v1.0.0
+<ol>
+<li>实现了功能</li>
+</ol>
+</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简易密码生成器]]></title>
+        <id>https://blog.doublecat.cn/post/passes-maker/</id>
+        <link href="https://blog.doublecat.cn/post/passes-maker/">
+        </link>
+        <updated>2022-06-22T09:17:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>一个批量生成随机密码的C++程序</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一个批量生成随机密码的C++程序</p>
+<!-- more -->
+<p>代码放在了了Debian pastezone里，点<a href="https://paste.debian.net/1244841"><strong>这里</strong></a>就看得到啦<br>
+随机数生成用的是random库，使用mt19937_64生成器根据硬件状态生成<br>
+<s>这是真随机数所以要比伪随机数rand()函数安全一些</s></p>
+<h1 id="码代码时的一些趣事">码代码时的一些<s>趣</s>事</h1>
+<p>众所周知，Ascii码里是有空格的<br>
+于是乎我的程序里有这么while循环来判断随机数是否超出范围或为空格，如果是就运行do里的部分</p>
+<pre><code>while (flag &lt; 32 || flag ==39 || flag &gt; 126);
+</code></pre>
+<p>其中<strong>flag==39</strong>就是判断是否为空格<br>
+然后我就发现输出里面有几率有空格 <s>难搞哦</s><br>
+然后我一直debug，一直debug，就是找不到问题所在<br>
+知道今天查百科，才知道我下载的Ascii码表把32(space)和39(`)弄反了<br>
+<s>造孽啊</s><br>
+其实可以打表来着，<s>但是循环写都写了就这样吧</s></p>
+<h1 id="代码">代码</h1>
+<pre><code class="language-C++">#include &lt;iostream&gt;
+#include &lt;random&gt;
+
+int main() {
+    std::random_device md;
+    std::mt19937_64 rnd(md());
+    size_t i, j;
+    int n, flag, mo;
+    std::cin &gt;&gt; n &gt;&gt; mo;
+    int num[n];
+    for (i = 0; i &lt; n; i++)
+        std::cin &gt;&gt; num[i];
+    for (i = 0; i &lt; n; i++) {
+        for (j = 0; j &lt; num[i]; j++) {
+            flag = (int) rnd() % mo;
+            do {
+                do {
+                    flag += (int) rnd() % mo;
+                } while (flag &lt; 33);
+                do {
+                    flag %= 126;
+                } while (flag &gt; 126);
+            } while (flag &lt; 33 || flag &gt; 126);
+            std::cout &lt;&lt; char(flag);
+        }
+        std::cout &lt;&lt; std::endl;
+    }
+    return 0;
+}
+</code></pre>
+<h1 id="如何使用">如何使用</h1>
+<blockquote>
+<p>有C++环境的直接编译运行<br>
+没有的进入<a href="http://cpp.jsrun.net"><strong>这个链接</strong></a>，把上面的代码复制进去，然后选择运行<br>
+在急速运行里输入以下内容，再点击运行</p>
+</blockquote>
+<blockquote>
+<p>第一行，输入你要生成的密码个数n以及随便一个数字取模，中间使用空格断开<br>
+第二行，输入n个数字，为你要生成的密码的长度，中间使用空格断开</p>
+</blockquote>
+<p><strong>例如输入</strong></p>
+<pre><code>4 114514
+12 12 12 12
+</code></pre>
+<p><strong>运行结果为</strong></p>
+<pre><code>?Odo$n8Xf03{
+jzVG$O-)aSLp
+]'6V&gt;]ijdsCl
+Q?$G6/c&quot;Cg&gt;e
+</code></pre>
+]]></content>
+    </entry>
+</feed>
